@@ -1,0 +1,6 @@
+mqtt:
+  username: root
+  password: 123
+  servers:
+    - tcp://localhost:1883
+  clientId: 1
